@@ -14,9 +14,9 @@ This repository hosts the source code, resources, architecture for ZKML project.
 ## Contributors
 This project is part of the [ZKML Bootcamp](https://www.encode.club/zkml-bootcamp) organized by the Encode club.
 
-Edward : https://github.com/edydkim
-Sky : https://github.com/SkyYap
-Tanmoy : https://github.com/muhtasimTanmoy
+- Edward : https://github.com/edydkim <br/>
+- Sky : https://github.com/SkyYap <br/>
+- Tanmoy : https://github.com/muhtasimTanmoy
 
 ## Acknowledgments
 Special thanks to the [ZKML Bootcamp](https://www.encode.club/zkml-bootcamp) team for organizing this event and providing us with the opportunity to learn and contribute to the ZK space.
