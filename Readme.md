@@ -1,7 +1,9 @@
 # ZKML Bootcamp Project
 
 ## Overview
-This repository hosts the source code, resources, architecture for ZKML project.
+A zero-knowledge proof system for handwriting/signature verification. Build with EZKL framework.
+This repository hosts the source code, resources, and architecture for the ZKML project.
+
 
 ## Architecture
 
